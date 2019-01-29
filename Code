@@ -11,7 +11,7 @@ print ("You and your 8 person family are struggling to survive in the Old West."
 print ("You have decided to journey to the new state called california.")
 print ("Before we begin pick your career and name.")
 career = input("Are you a Hunter, Farmer, or a Soldier: ")
-#careeres: hunter farmer soldier
+#careers: hunter farmer soldier
 name = input("What is your name: ")
 family = 8
 print (name, "must get most of his family members safely to California.")
